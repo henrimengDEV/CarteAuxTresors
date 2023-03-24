@@ -47,7 +47,8 @@ public class Main {
 
 - un packet `use_case` est aussi présent, ça serait la représentation de nos cas d'utilisation ici : 
   - JouerCarteAuxTresor
-  - on peut le voir couche étant la **couche Applicative** de notre application
+
+> on peut le voir comme étant la **couche Applicative** de notre application
 
 <hr>
 
